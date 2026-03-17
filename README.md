@@ -51,11 +51,15 @@ No installation needed.
 - Runs 100% client-side with modern browser APIs
 - No backend, no API keys
 - Built with vanilla JS + advanced image processing libs
-- (如果你开源了部分代码，可以在这里列：e.g. Canvas, WebAssembly modules 等)
 
 ## 📸 Screenshots
 
-*(在这里放 4-6 张图，用 Markdown 表格或直接并排)*
+<img width="733" height="500" alt="0" src="https://github.com/user-attachments/assets/e4cce4fa-59a3-45df-aedf-79666836bea4" />
+<img width="689" height="399" alt="1" src="https://github.com/user-attachments/assets/d302d25f-fc50-44de-bed6-372bff8f218e" />
+
+<img width="589" height="417" alt="6" src="https://github.com/user-attachments/assets/dbd0bab6-3080-44ba-9566-1f16634e8a07" />
+<img width="593" height="390" alt="7" src="https://github.com/user-attachments/assets/6d521b41-cb21-4e88-b1fa-c6ddc81221d0" />
+
 
 | Gemini Watermark Before | After Removal | Object Erase Before | After |
 |-------------------------|---------------|---------------------|-------|
@@ -76,7 +80,6 @@ No installation needed.
 
 Want to help improve **gemini watermark remover** accuracy or add new erase features?  
 Feel free to open issues / PRs!  
-(如果你真的开源了前端代码，就写：Contributions welcome — fork & PR)
 
 ## License
 
@@ -84,6 +87,6 @@ MIT License — free to use, modify, distribute.
 
 Star ⭐ if this helps you remove **Gemini watermark** hassle-free!
 
-Made with ❤️ by [你的名字或 @你的GitHub]
+Made with ❤️ by [@elsukubokami96120-cyber]
 
 Questions? → Open an issue or visit https://editghost.xyz
