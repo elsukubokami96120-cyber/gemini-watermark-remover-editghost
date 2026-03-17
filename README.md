@@ -1,3 +1,4 @@
+[![GitHub stars](https://img.shields.io/github/stars/elsukubokami96120-cyber/gemini-watermark-remover-editghost?style=social)](https://github.com/elsukubokami96120-cyber/gemini-watermark-remover-editghost)
 # EditGhost.xyz - Gemini Watermark Remover + AI Image Editor
 
 **Free, 100% browser-based tool** to remove **Gemini watermark** (including Nano Banana / Pro visible watermark), erase people, objects, wires, text, distractions from any photo — **no upload, no sign-up, no watermark added**.
