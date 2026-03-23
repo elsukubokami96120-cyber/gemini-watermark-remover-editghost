@@ -14,6 +14,10 @@ Live Demo: 🌐 https://editghost.xyz
 <img width="1408" height="768" alt="4-before" src="https://github.com/user-attachments/assets/6386ecdf-8a03-4c7c-8c78-704772b7f7fb" />
 <img width="1408" height="768" alt="4-after" src="https://github.com/user-attachments/assets/6e9e91c8-d0d7-434e-b72c-03e9de550b26" />
 
+<img width="1025" height="567" alt="kt_1" src="https://github.com/user-attachments/assets/f594f1c5-5cff-4b14-aff9-fab91701f70b" />
+
+<img width="1423" height="807" alt="kt_2" src="https://github.com/user-attachments/assets/62cee266-96bf-452e-a624-2c6156e9b9a7" />
+
 ---
 
 ## ✨ Features
