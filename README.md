@@ -24,6 +24,7 @@ Live Demo: 🌐 https://editghost.xyz
 
 <img width="494" height="769" alt="d77d959b-29c7-4548-b8b7-9244417d1068" src="https://github.com/user-attachments/assets/fa511fa0-766e-4ebf-a7cb-2643427d5dcf" />
 
+### Move characters or objects in the original background
 <img width="1491" height="865" alt="图片" src="https://github.com/user-attachments/assets/596934aa-63fc-4d24-af20-e845de1d54d5" />
 <img width="1533" height="905" alt="图片" src="https://github.com/user-attachments/assets/f6af44d9-8f82-489d-8c83-68b01b8d271f" />
 
